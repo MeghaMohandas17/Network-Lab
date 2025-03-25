@@ -32,5 +32,5 @@ read -p "Enter the lower limit: " lower_limit
 read -p "Enter the upper limit: " upper_limit
 
 
-find_primes $lower_limit $upper_limit
+find_prime $lower_limit $upper_limit
 
